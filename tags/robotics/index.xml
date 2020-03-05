@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on Richard Gao&#39;s Portfolio</title>
+    <link>/tags/robotics/</link>
+    <description>Recent content in Robotics on Richard Gao&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring Behavior Based Robotics</title>
+      <link>/posts/think/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/think/</guid>
+      <description>&lt;p&gt;Robotic boat that hunts and follows a target while avoiding obstacles&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Real Steel Shadowboxing Robot</title>
+      <link>/posts/real-steel/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/real-steel/</guid>
+      <description>&lt;p&gt;3D printed 8-DoF robot that tracks and mimics your every move&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gauntlet</title>
+      <link>/posts/gauntlet/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/gauntlet/</guid>
+      <description>&lt;p&gt;Using gradient descent to control a differential wheeled robot to a goal&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Text to Portrait</title>
+      <link>/posts/text-to-portrait/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/text-to-portrait/</guid>
+      <description>&lt;p&gt;Using a UR5 robotic arm to draw images from the internet&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

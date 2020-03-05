@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Gao&#39;s Portfolio</title>
+    <link>/</link>
+    <description>Recent content on Richard Gao&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring Behavior Based Robotics</title>
+      <link>/posts/think/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/think/</guid>
+      <description>&lt;p&gt;Robotic boat that hunts and follows a target while avoiding obstacles&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Real Steel Shadowboxing Robot</title>
+      <link>/posts/real-steel/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/real-steel/</guid>
+      <description>&lt;p&gt;3D printed 8-DoF robot that tracks and mimics your every move&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fourier Dribble</title>
+      <link>/posts/dribble/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dribble/</guid>
+      <description>&lt;p&gt;Basketball dribble classification using fourier analysis&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Poker Card Classification</title>
+      <link>/posts/poker/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/poker/</guid>
+      <description>&lt;p&gt;CNN with transfer learning to classify cards by suit and number&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>EnergySage</title>
+      <link>/posts/energysage/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/energysage/</guid>
+      <description>&lt;p&gt;Summer Internship 2019. Developed django templates and added to testing harness for CI&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rubix Cube Solver</title>
+      <link>/posts/rubix-cube/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/rubix-cube/</guid>
+      <description>&lt;p&gt;Solving 2x2x2 cube using A* and a pattern database&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gauntlet</title>
+      <link>/posts/gauntlet/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/gauntlet/</guid>
+      <description>&lt;p&gt;Using gradient descent to control a differential wheeled robot to a goal&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PyHogg</title>
+      <link>/posts/nidhogg/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/nidhogg/</guid>
+      <description>&lt;p&gt;Pygame clone of the popular game NidHogg&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jianzi</title>
+      <link>/posts/p-m/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/p-m/</guid>
+      <description>&lt;p&gt;DIY toy manual for today&amp;rsquo;s kids. Products and Markets 2019 Final Project&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>heAR</title>
+      <link>/posts/hear/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hear/</guid>
+      <description>&lt;p&gt;Helping the hearing impaired with an AR app for the Magic Leap Headset&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Text to Portrait</title>
+      <link>/posts/text-to-portrait/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/text-to-portrait/</guid>
+      <description>&lt;p&gt;Using a UR5 robotic arm to draw images from the internet&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Salmon Rush: Play Experience</title>
+      <link>/posts/desnat/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/desnat/</guid>
+      <description>&lt;p&gt;Bioinspired children&amp;rsquo;s game designed for total fun&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flex Glove</title>
+      <link>/posts/flex-glove/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/flex-glove/</guid>
+      <description>&lt;p&gt;Analog pitch fluctuating flex sensor glove&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pomodoro Chat</title>
+      <link>/posts/pomodoro-chat/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/pomodoro-chat/</guid>
+      <description>&lt;p&gt;Video chat platform for studying with an accountability partner. Based on the concept of the pomodoro technique&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Personal Clipboard</title>
+      <link>/posts/personal-clip/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/personal-clip/</guid>
+      <description>&lt;p&gt;Copy and paste productivity google chrome extension&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

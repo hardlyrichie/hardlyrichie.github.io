@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Full Stack on Richard Gao&#39;s Portfolio</title>
+    <link>/tags/full-stack/</link>
+    <description>Recent content in Full Stack on Richard Gao&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/full-stack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EnergySage</title>
+      <link>/posts/energysage/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/energysage/</guid>
+      <description>&lt;p&gt;Summer Internship 2019. Developed django templates and added to testing harness for CI&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pomodoro Chat</title>
+      <link>/posts/pomodoro-chat/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/pomodoro-chat/</guid>
+      <description>&lt;p&gt;Video chat platform for studying with an accountability partner. Based on the concept of the pomodoro technique&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
