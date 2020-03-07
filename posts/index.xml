@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Sarcasm Detection</title>
+      <link>/posts/sarcasm/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sarcasm/</guid>
+      <description>&lt;p&gt;Using naive bayes to detect sarcasm. Trained on reddit comment data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Poker Card Classification</title>
       <link>/posts/poker/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
@@ -62,7 +71,7 @@
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/rubix-cube/</guid>
-      <description>&lt;p&gt;Solving 2x2x2 cube using A* and a pattern database&lt;/p&gt;</description>
+      <description>&lt;p&gt;Solving 2x2x2 cube using A*&lt;/p&gt;</description>
     </item>
     
     <item>

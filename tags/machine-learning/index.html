@@ -35,7 +35,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="/tags/machine-learning/" />
 
-<meta property="og:updated_time" content="2019-10-29T00:00:00+00:00" />
+<meta property="og:updated_time" content="2019-11-15T00:00:00+00:00" />
 
 
 
@@ -51,29 +51,23 @@
 
 <style>
   a {
-    color: seagreen !important;
+    color: black !important;
   }
 </style>
 
 
-
-<style>
-  .inverted a {
-     color: darkseagreen !important;
-  }
-</style>
 
 
   </head>
 
   
-  <body style="background-image: url(/img/blue.jpg); height: 100%; background-attachment: fixed;">
+  <body style="background: white;">
   
     <div class="flip-container">
       <div class="flipper">
         <section class="front">
           
-<nav class="ui secondary inverted menu dream-menu">
+<nav class="ui secondary menu dream-menu" style="font-size: 1.2rem; margin-bottom: 0;">
 
   
   <div class="item">
@@ -86,7 +80,7 @@
 <div class="ui centered relaxed grid dream-grid">
   <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
     <article class="dream-header">
-  <section class="ui top attached center aligned segment">
+  <section class="ui top attached center aligned segment" style="border: none;">
     <div class="ui small circular image">
       
         <img src="/me/me.jpg">
@@ -112,7 +106,7 @@
   </section>
 
   
-  <section class="ui attached center aligned segment dream-tags">
+  <section class="ui attached center aligned segment dream-tags" style="border: none; border-top: 1px solid #d4d4d5;">
     
       <a class="ui label" href="/tags/algorithms" title="algorithms">algorithms</a>
     
@@ -143,7 +137,7 @@
 
   
 
-  <section class="ui attached center aligned segment">
+  <section class="ui attached center aligned segment" style="border: none; border-top: 1px solid #d4d4d5;">
     <article>
       <div class="ui attached">
         <nav class="ui secondary menu dream-menu" style="justify-content: center">
@@ -187,7 +181,7 @@
     </article>
   </section>
 
-  <section class="ui bottom attached center aligned segment">
+  <section class="ui bottom attached center aligned segment" style="border: none; border-top: 1px solid #d4d4d5;">
       
       <p>© 2020 Richard Gao&#39;s Portfolio</p>
       
@@ -198,50 +192,83 @@
 
   
   
-    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column" style="padding: .3rem .3rem .3rem .3rem;">
       
-<article class="ui raised card dream-card" style="box-shadow: none;">
+<article class="ui card dream-card" style="border: 1px solid #d4d4d5; border-radius: 0; box-shadow: none;" >
 
-  <a class="image" href="/posts/poker/">
-    
-      <img src="/img/poker.png" alt="Poker Card Classification" />
-    
+  <a class="ui image" href="/posts/sarcasm/" onmouseenter="mouseOver(this)" onmouseleave="mouseOut(this)">
+    <img src="/img/sarcasm.png" alt="Sarcasm Detection" style="border-radius: 0;" />
+    <div class="ui dimmer" style="transition: all 4s ease;">
+      <div class="content">
+        <h2>Sarcasm Detection</h2>
+        <div>Using naive bayes to detect sarcasm. Trained on reddit comment data.
+</div>
+      </div>
+    </div>
+    <script>
+      function mouseOver(x) {
+        $(x).dimmer('show');
+      }
+
+      function mouseOut(x) {
+        $(x).dimmer('hide');
+      }
+    </script>
   </a>
-
-  <div class="content">
-    <a class="header" style="color: black !important;" href="/posts/poker/">Poker Card Classification</a>
-    <div class="meta">
-      <p class="date">Tuesday, Oct 29, 2019</p>
-    </div>
-    <div class="description">
-      CNN with transfer learning to classify cards by suit and number
-
-    </div>
-  </div>
 </article>
 
     </div>
   
-    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column" style="padding: .3rem .3rem .3rem .3rem;">
       
-<article class="ui raised card dream-card" style="box-shadow: none;">
+<article class="ui card dream-card" style="border: 1px solid #d4d4d5; border-radius: 0; box-shadow: none;" >
 
-  <a class="image" href="/posts/hear/">
-    
-      <img src="/img/hear.png" alt="heAR" />
-    
+  <a class="ui image" href="/posts/poker/" onmouseenter="mouseOver(this)" onmouseleave="mouseOut(this)">
+    <img src="/img/poker.png" alt="Poker Card Classification" style="border-radius: 0;" />
+    <div class="ui dimmer" style="transition: all 4s ease;">
+      <div class="content">
+        <h2>Poker Card Classification</h2>
+        <div>CNN with transfer learning to classify cards by suit and number
+</div>
+      </div>
+    </div>
+    <script>
+      function mouseOver(x) {
+        $(x).dimmer('show');
+      }
+
+      function mouseOut(x) {
+        $(x).dimmer('hide');
+      }
+    </script>
   </a>
-
-  <div class="content">
-    <a class="header" style="color: black !important;" href="/posts/hear/">heAR</a>
-    <div class="meta">
-      <p class="date">Monday, Jan 21, 2019</p>
-    </div>
-    <div class="description">
-      Helping the hearing impaired with an AR app for the Magic Leap Headset
+</article>
 
     </div>
-  </div>
+  
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column" style="padding: .3rem .3rem .3rem .3rem;">
+      
+<article class="ui card dream-card" style="border: 1px solid #d4d4d5; border-radius: 0; box-shadow: none;" >
+
+  <a class="ui image" href="/posts/hear/" onmouseenter="mouseOver(this)" onmouseleave="mouseOut(this)">
+    <img src="/img/hear.png" alt="heAR" style="border-radius: 0;" />
+    <div class="ui dimmer" style="transition: all 4s ease;">
+      <div class="content">
+        <h2>heAR</h2>
+        <div>Helping the hearing impaired with an AR app for the Magic Leap Headset
+</div>
+      </div>
+    </div>
+    <script>
+      function mouseOver(x) {
+        $(x).dimmer('show');
+      }
+
+      function mouseOut(x) {
+        $(x).dimmer('hide');
+      }
+    </script>
+  </a>
 </article>
 
     </div>
@@ -258,7 +285,7 @@
         </section>
         <section class="back">
           
-<nav class="ui secondary inverted menu dream-menu">
+<nav class="ui secondary menu dream-menu" style="font-size: 1.2rem; margin-bottom: 0;">
 
   
   <div class="item">
