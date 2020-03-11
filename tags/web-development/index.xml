@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Memory Game</title>
+      <link>/posts/memory/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/memory/</guid>
+      <description>&lt;p&gt;Memory game created with React library&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Pomodoro Chat</title>
       <link>/posts/pomodoro-chat/</link>
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
@@ -36,6 +45,15 @@
       
       <guid>/posts/personal-clip/</guid>
       <description>&lt;p&gt;Copy and paste productivity google chrome extension&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Collaboradoodle</title>
+      <link>/posts/collaboradoodle/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/collaboradoodle/</guid>
+      <description>&lt;p&gt;Web App that allows users to draw together with a personal dashboard and invite system&lt;/p&gt;</description>
     </item>
     
   </channel>

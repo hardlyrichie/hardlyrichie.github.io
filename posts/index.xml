@@ -35,7 +35,7 @@
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/dribble/</guid>
-      <description>&lt;p&gt;Basketball dribble classification using fourier analysis&lt;/p&gt;</description>
+      <description>&lt;p&gt;Basketball dribble classification using fourier analysis and naive bayes&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -54,6 +54,15 @@
       
       <guid>/posts/poker/</guid>
       <description>&lt;p&gt;CNN with transfer learning to classify cards by suit and number&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mechatronics Labs</title>
+      <link>/posts/poe/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/poe/</guid>
+      <description>&lt;p&gt;Bike Light; 3D Scanner; Line Following Robot&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -102,6 +111,24 @@
     </item>
     
     <item>
+      <title>Rap Generator</title>
+      <link>/posts/rap-gen/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/rap-gen/</guid>
+      <description>&lt;p&gt;Generating artist specific rap lyrics using reverse markov chains&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Designing a Boat</title>
+      <link>/posts/boat/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/boat/</guid>
+      <description>&lt;p&gt;Designed and modeled a boat that is optimized to float level, have an AVS of 120°-140°, and be fast&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>heAR</title>
       <link>/posts/hear/</link>
       <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
@@ -138,6 +165,15 @@
     </item>
     
     <item>
+      <title>Memory Game</title>
+      <link>/posts/memory/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/memory/</guid>
+      <description>&lt;p&gt;Memory game created with React library&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Pomodoro Chat</title>
       <link>/posts/pomodoro-chat/</link>
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
@@ -153,6 +189,15 @@
       
       <guid>/posts/personal-clip/</guid>
       <description>&lt;p&gt;Copy and paste productivity google chrome extension&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Collaboradoodle</title>
+      <link>/posts/collaboradoodle/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/collaboradoodle/</guid>
+      <description>&lt;p&gt;Web App that allows users to draw together with a personal dashboard and invite system&lt;/p&gt;</description>
     </item>
     
   </channel>

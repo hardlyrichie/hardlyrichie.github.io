@@ -43,13 +43,13 @@
   </url>
   
   <url>
-    <loc>/tags/math/</loc>
+    <loc>/tags/machine-learning/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <loc>/tags/math/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -60,6 +60,11 @@
   <url>
     <loc>/posts/poker/</loc>
     <lastmod>2019-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/poe/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -118,6 +123,16 @@
   </url>
   
   <url>
+    <loc>/posts/rap-gen/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/boat/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/ar/vr/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
   </url>
@@ -148,6 +163,11 @@
   </url>
   
   <url>
+    <loc>/posts/memory/</loc>
+    <lastmod>2018-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/pomodoro-chat/</loc>
     <lastmod>2018-06-14T00:00:00+00:00</lastmod>
   </url>
@@ -155,6 +175,11 @@
   <url>
     <loc>/posts/personal-clip/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/collaboradoodle/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>

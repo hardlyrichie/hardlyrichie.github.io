@@ -20,5 +20,14 @@
       <description>&lt;p&gt;Solving 2x2x2 cube using A*&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Rap Generator</title>
+      <link>/posts/rap-gen/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/rap-gen/</guid>
+      <description>&lt;p&gt;Generating artist specific rap lyrics using reverse markov chains&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
