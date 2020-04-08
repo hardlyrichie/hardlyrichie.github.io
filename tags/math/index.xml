@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Gauntlet</title>
+      <link>/posts/gauntlet/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/gauntlet/</guid>
+      <description>&lt;p&gt;Using gradient descent to control a differential wheeled robot to a goal&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Designing a Boat</title>
       <link>/posts/boat/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
