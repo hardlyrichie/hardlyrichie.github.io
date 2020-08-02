@@ -6,13 +6,22 @@
     <description>Recent content on Richard Gao&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Softvst</title>
+      <title>Designing Universal Sabbaticals for Music Educators</title>
+      <link>/posts/uocd/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/uocd/</guid>
+      <description>&lt;p&gt;Through 3 phases of user collaborative design, designing a product idea to benefit Music Educators&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SoftVST</title>
       <link>/posts/softvst/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
@@ -188,7 +197,7 @@
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/posts/pomodoro-chat/</guid>
-      <description>&lt;p&gt;Video chat platform for studying with an accountability partner. Based on the concept of the pomodoro technique&lt;/p&gt;</description>
+      <description>&lt;p&gt;Video chat platform for studying with an accountability partner. Based on the concept of the pomodoro technique.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -206,7 +215,7 @@
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/posts/collaboradoodle/</guid>
-      <description>&lt;p&gt;Web App that allows users to draw together with a personal dashboard and invite system&lt;/p&gt;</description>
+      <description>&lt;p&gt;Web app that allows users to draw together with a personal dashboard and invite system&lt;/p&gt;</description>
     </item>
     
   </channel>
