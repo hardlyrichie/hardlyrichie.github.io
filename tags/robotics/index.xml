@@ -6,10 +6,19 @@
     <description>Recent content in Robotics on Richard Gao&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Implementing a Particle Filter</title>
+      <link>/posts/particle_filter/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/particle_filter/</guid>
+      <description>&lt;p&gt;Solving the robot localization problem using a particle filter&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Exploring Behavior Based Robotics</title>

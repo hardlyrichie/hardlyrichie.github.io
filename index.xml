@@ -6,10 +6,19 @@
     <description>Recent content on Richard Gao&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Implementing a Particle Filter</title>
+      <link>/posts/particle_filter/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/particle_filter/</guid>
+      <description>&lt;p&gt;Solving the robot localization problem using a particle filter&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Designing Universal Sabbaticals for Music Educators</title>
@@ -156,6 +165,15 @@
     </item>
     
     <item>
+      <title>Dine</title>
+      <link>/posts/dine/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dine/</guid>
+      <description>&lt;p&gt;Food Recommendation Startup - Streamlining the way you decide what to eat&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Text to Portrait</title>
       <link>/posts/text-to-portrait/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
@@ -183,12 +201,12 @@
     </item>
     
     <item>
-      <title>Memory Game</title>
-      <link>/posts/memory/</link>
+      <title>Playing around with React</title>
+      <link>/posts/playing_with_react/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/memory/</guid>
-      <description>&lt;p&gt;Memory game created with React library&lt;/p&gt;</description>
+      <guid>/posts/playing_with_react/</guid>
+      <description>&lt;p&gt;Memory game &amp;amp; todo list created with the React library&lt;/p&gt;</description>
     </item>
     
     <item>

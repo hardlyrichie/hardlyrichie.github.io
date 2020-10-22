@@ -21,12 +21,21 @@
     </item>
     
     <item>
-      <title>Memory Game</title>
-      <link>/posts/memory/</link>
+      <title>Dine</title>
+      <link>/posts/dine/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dine/</guid>
+      <description>&lt;p&gt;Food Recommendation Startup - Streamlining the way you decide what to eat&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Playing around with React</title>
+      <link>/posts/playing_with_react/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/memory/</guid>
-      <description>&lt;p&gt;Memory game created with React library&lt;/p&gt;</description>
+      <guid>/posts/playing_with_react/</guid>
+      <description>&lt;p&gt;Memory game &amp;amp; todo list created with the React library&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -20,14 +20,5 @@
       <description>&lt;p&gt;Pygame clone of the popular game NidHogg&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Memory Game</title>
-      <link>/posts/memory/</link>
-      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/memory/</guid>
-      <description>&lt;p&gt;Memory game created with React library&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

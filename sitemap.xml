@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/algorithms/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/particle_filter/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/robotics/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/design/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/uocd/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,11 +59,6 @@
   
   <url>
     <loc>/posts/think/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/robotics/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,11 +118,6 @@
   </url>
   
   <url>
-    <loc>/tags/algorithms/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/rubix-cube/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
@@ -153,13 +158,13 @@
   </url>
   
   <url>
-    <loc>/tags/ar/vr/</loc>
+    <loc>/posts/hear/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/hear/</loc>
-    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+    <loc>/posts/dine/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -183,7 +188,7 @@
   </url>
   
   <url>
-    <loc>/posts/memory/</loc>
+    <loc>/posts/playing_with_react/</loc>
     <lastmod>2018-07-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -200,6 +205,10 @@
   <url>
     <loc>/posts/collaboradoodle/</loc>
     <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ar/vr/</loc>
   </url>
   
   <url>
