@@ -57,15 +57,6 @@
     </item>
     
     <item>
-      <title>Fourier Dribble</title>
-      <link>/posts/dribble/</link>
-      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/dribble/</guid>
-      <description>&lt;p&gt;Basketball dribble classification using fourier analysis and naive bayes&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Sarcasm Detection</title>
       <link>/posts/sarcasm/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
@@ -102,48 +93,12 @@
     </item>
     
     <item>
-      <title>Rubix Cube Solver</title>
-      <link>/posts/rubix-cube/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/rubix-cube/</guid>
-      <description>&lt;p&gt;Solving 2x2x2 cube using A*&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Gauntlet</title>
       <link>/posts/gauntlet/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/gauntlet/</guid>
       <description>&lt;p&gt;Using gradient descent to control a differential wheeled robot to a goal&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyHogg</title>
-      <link>/posts/nidhogg/</link>
-      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/nidhogg/</guid>
-      <description>&lt;p&gt;Pygame clone of the popular game NidHogg&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Jianzi</title>
-      <link>/posts/p-m/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/p-m/</guid>
-      <description>&lt;p&gt;DIY toy manual for today&amp;rsquo;s kids. Products and Markets 2019 Final Project&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rap Generator</title>
-      <link>/posts/rap-gen/</link>
-      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/rap-gen/</guid>
-      <description>&lt;p&gt;Generating artist specific rap lyrics using reverse markov chains&lt;/p&gt;</description>
     </item>
     
     <item>

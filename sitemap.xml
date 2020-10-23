@@ -73,18 +73,8 @@
   </url>
   
   <url>
-    <loc>/posts/dribble/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/machine-learning/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/math/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -118,38 +108,13 @@
   </url>
   
   <url>
-    <loc>/posts/rubix-cube/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/gauntlet/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/game-development/</loc>
-    <lastmod>2019-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/nidhogg/</loc>
-    <lastmod>2019-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/entrepreneurship/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/p-m/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/rap-gen/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <loc>/tags/math/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -164,6 +129,11 @@
   
   <url>
     <loc>/posts/dine/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/entrepreneurship/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
   </url>
   
