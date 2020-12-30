@@ -6,10 +6,28 @@
     <description>Recent content on Richard Gao&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Follow the Leader</title>
+      <link>/posts/follow_the_leader/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/follow_the_leader/</guid>
+      <description>&lt;p&gt;Follow the leader behavior for a decentralized robotic swarm using fuzzy logic&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shadow Neato</title>
+      <link>/posts/shadow_neato/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/shadow_neato/</guid>
+      <description>&lt;p&gt;Robot behavior to hide in shadows using the MTMT Shadow Detection Model&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Implementing a Particle Filter</title>
