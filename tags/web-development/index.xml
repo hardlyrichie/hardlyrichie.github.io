@@ -6,10 +6,19 @@
     <description>Recent content in Web Development on Richard Gao&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Better.com</title>
+      <link>/posts/better/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/better/</guid>
+      <description>&lt;p&gt;Making homeownership simpler, faster, and more accessible | Summer Internship 2021&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>EnergySage</title>
@@ -17,7 +26,7 @@
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/energysage/</guid>
-      <description>&lt;p&gt;Summer Internship 2019. Developed django templates and added to testing harness for CI&lt;/p&gt;</description>
+      <description>&lt;p&gt;The industry&amp;rsquo;s leading online marketplace for rooftop and community solar | Summer Internship 2019&lt;/p&gt;</description>
     </item>
     
     <item>
